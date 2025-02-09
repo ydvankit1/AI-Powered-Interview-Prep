@@ -32,6 +32,7 @@ Retake previous interviews to improve performance.
 
 Framework: Next.js
 Authentication: Clerk
+
 Database: Neon (Serverless PostgreSQL)
 
 Deployment: Vercel
