@@ -1,10 +1,10 @@
-🚀 AI Mock Interview Platform
-🔗 Live Demo: [AI Mock Interview](https://ai-mock-interview-97pd.vercel.app/)
+🚀 AI-Powered Interview Prep Platform
+🔗 Live Demo: [AI-Powered Interview Prep](https://ai-mock-interview-97pd.vercel.app/)
 
 
 ✨ Overview
 
-AI Mock Interview is a cutting-edge platform designed to help users practice technical interviews in a realistic environment. With secure authentication, AI-generated interview questions, and real-time video/audio recording, this app provides instant feedback to improve interview performance.
+AI-Powered Interview Prep is a cutting-edge platform designed to help users practice technical interviews in a realistic environment. With secure authentication, AI-generated interview questions, and real-time video/audio recording, this app provides instant feedback to improve interview performance.
 
 
 🔥 Features
@@ -17,7 +17,7 @@ Users can log in securely using Clerk.
 Ensures data privacy and a seamless sign-in experience.
 
 
-🎤 AI-Powered Interview Experience
+🎤 AI-Powered Interview Prep Experience
 
 Start a new interview by entering the job role and years of experience.
 
@@ -60,4 +60,4 @@ Database: Neon (Serverless PostgreSQL)
 Deployment: Vercel
 
 🎯 Ready to ace your next interview? Try it now:
-🔗 [AI Mock Interview](https://ai-mock-interview-97pd.vercel.app/) 🚀
+🔗 [AI-Powered Interview Prep](https://ai-mock-interview-97pd.vercel.app/) 🚀
