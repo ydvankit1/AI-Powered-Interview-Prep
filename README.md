@@ -1,5 +1,5 @@
 🚀 AI Mock Interview Platform
-🔗 Live Demo: AI Mock Interview
+🔗 Live Demo: [AI Mock Interview](https://ai-mock-interview-97pd.vercel.app/)
 
 ✨ Overview
 
@@ -37,4 +37,4 @@ Database: Neon (Serverless PostgreSQL)
 Deployment: Vercel
 
 🎯 Ready to ace your next interview? Try it now:
-🔗 AI Mock Interview 🚀
+🔗 [AI Mock Interview](https://ai-mock-interview-97pd.vercel.app/) 🚀
