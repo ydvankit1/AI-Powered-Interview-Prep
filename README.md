@@ -13,7 +13,7 @@ Ensures data privacy and a seamless sign-in experience.
 
 🎤 AI-Powered Interview Experience
 Start a new interview by entering the job role and years of experience.
-Get 5 AI-generated questions covering theoretical and logical reasoning.
+Get 5 AI-generated questions covering theoretical and logical.
 Webcam & microphone support for a real interview feel.
 Users record their answers in real time.
 
